@@ -1,0 +1,21 @@
+# React
+
+auth-frontend/node_modules/
+auth-frontend/dist/
+auth-frontend/.env
+
+# Spring Boot
+
+AuthSystem/target/
+
+# Secrets
+
+.env
+**/.env
+**/.env.local
+
+# IDE and OS files
+
+.idea/
+.DS_Store
+Thumbs.db
